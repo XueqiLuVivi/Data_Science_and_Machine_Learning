@@ -28,8 +28,12 @@ Each training and test example is assigned to one of the following labels:
 
 ### Packages
 
-Pandas [https://pandas.pydata.org/]{https://pandas.pydata.org/}
-Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
-Numpy [https://numpy.org/]{https://numpy.org/}
-TensorFlow [https://www.tensorflow.org/api_docs]{https://www.tensorflow.org/api_docs}
-Scikit-learn [https://scikit-learn.org/]{https://scikit-learn.org/}
+Pandas https://pandas.pydata.org/
+
+Matplotlib https://matplotlib.org/
+
+Numpy https://numpy.org/
+
+TensorFlow https://www.tensorflow.org/api_docs
+
+Scikit-learn https://scikit-learn.org/
