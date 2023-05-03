@@ -8,10 +8,10 @@ In this project, I will build a Gradient Descent model from scratch, using the g
 Random generated numberical data.
 
 ## Libraries
-Pandas [https://pandas.pydata.org/]
+Pandas https://pandas.pydata.org/
 
-Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
+Matplotlib https://matplotlib.org/
 
-Numpy [https://numpy.org/]{https://numpy.org/}
+Numpy https://numpy.org/
 
-Scikit-learn [https://scikit-learn.org/]{https://scikit-learn.org/}
+Scikit-learn https://scikit-learn.org/
