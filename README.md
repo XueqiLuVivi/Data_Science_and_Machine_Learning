@@ -10,24 +10,16 @@ For this repository, each sub-repository is named by an algorithm name and conta
 
 ### Supervised Learning
 - Perceptron
-- 
 - Linear Regression
-- 
 - Gradient Descent
-- 
 - Logistic Regression
-- 
 - Neural Network
-- 
 - K-Nearest Neighbors
-- 
 - Decision & Regression Trees
-- 
 - Ensemble Learning
 
 ### Unsupervised Learning
 - K-Means Clustering
-- 
 - Principal Component Analysis(PCA)
 
 ### Data
