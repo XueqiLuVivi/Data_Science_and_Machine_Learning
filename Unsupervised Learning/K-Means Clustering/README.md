@@ -34,6 +34,7 @@ i) symmetry
 j) fractal dimension ("coastline approximation" - 1)
 
 ###Packages
+
 Pandas https://pandas.pydata.org/
 
 Matplotlib https://matplotlib.org/
