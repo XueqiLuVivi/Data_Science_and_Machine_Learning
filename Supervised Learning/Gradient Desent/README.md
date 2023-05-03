@@ -9,6 +9,9 @@ Random generated numberical data.
 
 ## Libraries
 Pandas [https://pandas.pydata.org/]{https://pandas.pydata.org/}
+
 Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
+
 Numpy [https://numpy.org/]{https://numpy.org/}
+
 Scikit-learn [https://scikit-learn.org/]{https://scikit-learn.org/}
