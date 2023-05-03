@@ -18,8 +18,12 @@ The data contains the following features:
 - s6      glu, blood sugar level
 
 ## Libraries
-Pandas [https://pandas.pydata.org/]{https://pandas.pydata.org/}
-Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
-Numpy [https://numpy.org/]{https://numpy.org/}
-Seaborn [https://seaborn.pydata.org/]{https://seaborn.pydata.org/}
-Scikit-learn [https://scikit-learn.org/]{https://scikit-learn.org/}
+Pandas https://pandas.pydata.org/
+
+Matplotlib https://matplotlib.org/
+
+Numpy https://numpy.org/
+
+Seaborn https://seaborn.pydata.org/
+
+Scikit-learn https://scikit-learn.org/
