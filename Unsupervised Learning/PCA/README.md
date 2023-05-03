@@ -16,7 +16,10 @@ The dataset consists of 7 columns.
 - sex: penguin sex
 
 ### Package
-Pandas [https://pandas.pydata.org/]{https://pandas.pydata.org/}
-Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
-Numpy [https://numpy.org/]{https://numpy.org/}
-Seaborn [https://seaborn.pydata.org]{https://seaborn.pydata.org}
+Pandas https://pandas.pydata.org/
+
+Matplotlib https://matplotlib.org/
+
+Numpy https://numpy.org/
+
+Seaborn https://seaborn.pydata.org
