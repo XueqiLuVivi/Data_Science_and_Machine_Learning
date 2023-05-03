@@ -22,12 +22,12 @@ The data contains the following features:
 -Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
 ## Libraries
-Pandas [https://pandas.pydata.org/]{https://pandas.pydata.org/}
+Pandas https://pandas.pydata.org/
 
-Matplotlib [https://matplotlib.org/]{https://matplotlib.org/}
+Matplotlib https://matplotlib.org/
 
-Numpy [https://numpy.org/]{https://numpy.org/}
+Numpy https://numpy.org/
 
-Seaborn [https://seaborn.pydata.org/]{https://seaborn.pydata.org/}
+Seaborn https://seaborn.pydata.org/
 
 Scikit-learn [https://scikit-learn.org/]{https://scikit-learn.org/}
